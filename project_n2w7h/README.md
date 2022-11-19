@@ -21,17 +21,15 @@ because I always write down all the tasks that I need to finish. I think this pr
 - As a user, I want to update my date on my to-do list
 - As a user, I want to flush my to-do list
 
-### Phase 4: Task 2 - type hierarchy
--In the ui package, TaskFrame class extends JFrame class, which means JFrame is a superclass of TaskFrame.
+Type Hierarchy
+- In the UI package, TaskFrame class extends JFrame class, which means JFrame is a superclass of TaskFrame.
 Since we want to create a frame in our window, we need to invoke some methods (setSize(), setVisible()...) 
 in its superclass. We also override method in Window (java.awt), such that we can indicate if the window is currently 
 opaque.
--In the ui package, TaskDaoImpL implements TaskDao interface and TaskServiceImpl implements TaskService interface,
+- In the UI package, TaskDaoImpL implements TaskDao interface and TaskServiceImpl implements TaskService interface,
 since they have similarities among unrelated classes, we use interface to achieve multiple inheritance and loose
 coupling.
 
-
-### Phase 4: Task 3 
 -In my UML class diagram, I kind of duplicate Task class, one is in the model package, another one is in the ui
 package. They have some similarities (private String name...), except that the Task class in the ui package has method
 about comparing different objects. Besides, maybe I should use abstract class to take generalization in other classes. 
