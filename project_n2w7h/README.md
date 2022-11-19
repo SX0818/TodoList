@@ -30,6 +30,6 @@ opaque.
 since they have similarities among unrelated classes, we use interface to achieve multiple inheritance and loose
 coupling.
 
--In my UML class diagram, I kind of duplicate Task class, one is in the model package, another one is in the ui
+- In my UML class diagram, I kind of duplicate Task class, one is in the model package, another one is in the ui
 package. They have some similarities (private String name...), except that the Task class in the ui package has method
 about comparing different objects. Besides, maybe I should use abstract class to take generalization in other classes. 
