@@ -1,10 +1,10 @@
 # **Personal Project**
 
-### To-Do list
+### To-Do List
 
-To-Do list application keeps track of things that the user insert and cross things off when 
-the user finishes the work. Everyone has chances to use it. I am interested in this project 
-because I always write down all the tasks that I need to finish. I think this project is useful.
+The To-Do List application keeps track of things the user inserts and crosses off when 
+the user finishes the work. Everyone has a chance to use it. I am interested in this project 
+because I always write down all the tasks I need to finish. This project is helpful.
 
 ### User Stories
 - As a user, I want to able to add a task to my to-do list
