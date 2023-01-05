@@ -1,4 +1,4 @@
-# **Personal Project**
+# **Personal Project (UBC CPSC210)**
 
 ### To-Do List
 
