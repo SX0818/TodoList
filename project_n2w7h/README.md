@@ -1,11 +1,5 @@
 # **Personal Project (UBC CPSC 210)**
 
-### To-Do List
-
-The To-Do List application keeps track of things the user inserts and crosses off when 
-the user finishes the work. Everyone has a chance to use it. I am interested in this project 
-because I always write down all the tasks I need to finish. This project is helpful.
-
 ### User Stories
 - As a user, I want to able to add a task to my to-do list
 - As a user, I want to able to delete a task to my to-do list
