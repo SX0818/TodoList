@@ -1,4 +1,4 @@
-# TodoList App
+# TodoList App (UBC CPSC 210)
 
 The To-Do List application is a task management tool that facilitates the tracking of user inputted tasks and their completion status. This application serves as a valuable tool for individuals seeking to improve their personal productivity by enabling the creation of lists of actionable items to be completed within a given timeframe.
 
