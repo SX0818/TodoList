@@ -1,4 +1,4 @@
-# **Personal Project (UBC CPSC 210)**
+# **Personal Project**
 
 ### User Stories
 - As a user, I want to able to add a task to my to-do list
